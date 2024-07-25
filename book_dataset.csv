@@ -1,0 +1,79 @@
+title,author,page_count,avg_rating,num_reviews,publication_year,genre
+To Kill a Mockingbird,Harper Lee,126,3.7,691145,1917,Children's
+1984,George Orwell,325,3.9,833777,2010,Mystery
+The Great Gatsby,F. Scott Fitzgerald,376,3.2,114402,1975,History
+Pride and Prejudice,Jane Austen,897,5.0,869524,1908,History
+The Catcher in the Rye,J.D. Salinger,708,3.4,86049,1973,Personal Development
+The Hobbit,J.R.R. Tolkien,383,4.6,18005,1957,Fantasy
+The Da Vinci Code,Dan Brown,978,4.1,824323,2007,Thriller
+The Hunger Games,Suzanne Collins,580,4.1,70690,1916,Young Adult
+The Girl with the Dragon Tattoo,Stieg Larsson,552,4.2,196632,2001,Thriller
+The Alchemist,Paulo Coelho,928,3.1,952465,1906,Personal Development
+The Lord of the Rings,J.K. Rowling,915,4.5,976585,1945,Fantasy
+Harry Potter and the Sorcerer's Stone,C.S. Lewis,758,3.7,744136,1912,Fantasy
+The Chronicles of Narnia,Aldous Huxley,615,4.6,400623,1939,Fantasy
+Brave New World,Douglas Adams,646,3.9,425745,1941,Children's
+The Hitchhiker's Guide to the Galaxy,Stephen King,291,3.8,61526,1908,Fiction
+The Shining,Joseph Heller,148,3.4,307005,1949,Biography
+Catch-22,John Steinbeck,611,3.6,167330,1926,Biography
+The Grapes of Wrath,Herman Melville,116,4.2,675560,2021,Self-Help
+Moby-Dick,Mary Shelley,271,3.3,595518,1965,Philosophy
+Frankenstein,Bram Stoker,319,3.0,698696,1904,Philosophy
+Dracula,Homer,257,3.6,637194,1928,Young Adult
+The Odyssey,Leo Tolstoy,576,4.4,854932,1936,Thriller
+The Iliad,Fyodor Dostoevsky,145,4.9,414618,1937,Philosophy
+War and Peace,Gabriel García Márquez,472,3.7,186191,1982,Non-Fiction
+Crime and Punishment,Miguel de Cervantes,617,3.2,898370,1907,Business
+The Brothers Karamazov,Gustave Flaubert,198,3.8,634786,2011,Business
+One Hundred Years of Solitude,Emily Brontë,991,4.1,538735,2008,Fiction
+Love in the Time of Cholera,Charlotte Brontë,844,4.3,959109,1964,Non-Fiction
+Don Quixote,Oscar Wilde,136,5.0,178081,1985,Romance
+Madame Bovary,Mark Twain,379,4.1,918282,2015,Young Adult
+Wuthering Heights,Louisa May Alcott,448,4.8,968071,1916,Fantasy
+Jane Eyre,Alexandre Dumas,596,3.8,119230,1970,Personal Development
+The Picture of Dorian Gray,Victor Hugo,401,4.0,66284,1988,Thriller
+The Adventures of Huckleberry Finn,Antoine de Saint-Exupéry,280,3.7,564292,1944,Politics
+The Adventures of Tom Sawyer,Kenneth Grahame,706,3.7,178402,1903,Children's
+Little Women,E.B. White,198,3.9,79509,1935,Economics
+Anna Karenina,Eric Carle,799,3.9,410045,1969,Horror
+The Count of Monte Cristo,Margaret Wise Brown,215,3.7,195054,1930,Personal Development
+Les Misérables,Maurice Sendak,290,3.7,466202,1918,Children's
+The Little Prince,Shel Silverstein,352,4.5,942020,1960,Science
+The Wind in the Willows,Dr. Seuss,260,5.0,954493,2007,Self-Help
+Charlotte's Web,Roald Dahl,355,3.8,725306,1953,Romance
+The Very Hungry Caterpillar,Stephen Hawking,422,3.8,952824,1938,Science
+Goodnight Moon,Richard Dawkins,227,4.3,59213,1990,Science
+Where the Wild Things Are,Yuval Noah Harari,117,5.0,475903,1973,Science
+The Giving Tree,Sun Tzu,892,4.0,51984,1989,Philosophy
+Green Eggs and Ham,Niccolò Machiavelli,834,4.5,720305,1918,Philosophy
+The Cat in the Hat,Plato,665,4.8,425573,1938,Philosophy
+Matilda,Marcus Aurelius,669,4.2,840580,1966,Philosophy
+Charlie and the Chocolate Factory,Friedrich Nietzsche,422,4.5,454187,1944,Philosophy
+A Brief History of Time,Adam Smith,971,4.3,5536,1912,Politics
+The Selfish Gene,Karl Marx,785,4.5,139457,2013,Politics
+Sapiens: A Brief History of Humankind,Charles Darwin,891,3.5,873382,1991,History
+The Art of War,Howard Zinn,725,4.1,650358,1957,Politics
+The Prince,Jared Diamond,387,4.2,627133,1919,Politics
+The Republic,Rachel Carson,953,4.2,220234,1991,Self-Help
+Meditations,Betty Friedan,762,4.6,666540,1971,Personal Development
+Beyond Good and Evil,Simone de Beauvoir,738,4.2,349702,1960,Personal Development
+Thus Spoke Zarathustra,Naomi Wolf,254,3.4,761365,2004,Literary Fiction
+The Wealth of Nations,Thomas Kuhn,589,4.3,642662,1938,Young Adult
+Das Kapital,William Strunk Jr.,485,3.6,322760,1900,Business
+The Communist Manifesto,William Zinsser,884,3.7,197825,1902,Classic
+The Origin of Species,Anne Lamott,203,3.8,289386,1976,Romance
+A People's History of the United States,Stephen King,492,3.9,787544,1991,History
+"Guns, Germs, and Steel",Joseph Campbell,910,3.2,608414,1961,Psychology
+Silent Spring,Carl Jung,345,4.6,89830,2020,Personal Development
+The Feminine Mystique,Sigmund Freud,275,3.4,152667,1962,Literary Fiction
+The Second Sex,Daniel Kahneman,138,4.8,546027,2012,Science
+The Beauty Myth,Oliver Sacks,576,3.4,797656,1924,Politics
+The Structure of Scientific Revolutions,Malcolm Gladwell,781,4.6,350655,1955,Fiction
+The Elements of Style,Steven D. Levitt,858,4.0,912656,1932,Fantasy
+On Writing Well,Stephen R. Covey,637,3.1,889515,1937,Self-Help
+Bird by Bird,Dale Carnegie,966,3.5,533686,2016,Self-Help
+On Writing: A Memoir of the Craft,Napoleon Hill,917,4.7,941268,1905,Self-Help
+The Hero with a Thousand Faces,Robert Kiyosaki,507,4.2,38152,1957,Self-Help
+The Power of Myth,Benjamin Graham,624,4.0,74510,1943,Philosophy
+Man and His Symbols,David Dodd,927,2.9,364828,1944,Mystery
+The Interpretation of Dreams,Philip Fisher,605,4.7,89980,1931,History
